@@ -1,30 +1,17 @@
-' //://::/:::::::::---..-.----::://:::---.
-' //////:::--::-//oso+++o+o+-.--.----..-.:  PROGRAM:
-' ::::::-://///+++yyo+oss/oyso+-.--:-----.
-' :::.:/:///+/s+ssyhyssyysyso+oy+------.--    Liberty Basic Command Tests
-' --:/+osoossssoyhhdhhdddmhhdhssyy:-----::
-' /://oyhhyys+++oyhhyhdmmmhyyhdhddydmmmmmd  NAME:
-' yyssyyyys+::::/sysssyhhhhyyydmhh+---::::
-' +++os++-----::/osoooosssyyhhhhdhhdmmmmmm    Scott A. Rossell
-' mmmhoo+--:::::://////+/+++oosydmmmMMMMMM
-' MNNmys+.-/:/::::::::////++oooshmNdhddydd  DESCRIPTION:
-' ++/+/y+-/+////++ossssosyhhhdddddmy/+/:/:
-' -----so+s+/+syhddddhhyydmmmmmmdhhs/+::-:    A sequential collection of tests
-' --..-+yyyssyhddmmmmddyoshmmddhdhyy//---.    for each command and constant in
-' ---.-/hhyoshhhdmdmdhs/:::yhyssyhhh+:::--    the Liberty Basic programming
-' -----:ysso/+oosyhhyso//++shddddddh+/:::/    language.
-' ::::-:/o+oo++ooooooysyhddmmyhmmddhooyyyh
-' /////+o+/ossyyyyyyysoddmmNmhyhhddhsyhddd    This program is intended for use
-' oossssso+/oyyyhhhys++sshmmmmmdhyhyshmddd    with Liberty Basic version 5,
-' ++oossyys/+syyyyys+osyydmmmmddddyyshMMmd    particularly during alpha and beta
-' oosoooydmso+oosssoydhhdddddddddhhyymMMmd    testing phases of development.
-' ssyyyydddmhoo+++sydddddhhhhhhysosydNMMmm
-' ssyyyydmddmhs+/+syysssooydmyso/oshNMMNNm  DATE: 19.12.7
-' syhdhhdmdddmdy+sssoos+/+odmdysshdNMMNNmm
-' hdddhhhdddddmmmhyyyysoooohhhhdmNMMMNmmmd  VERSION: 1.0
-' dmmdddhhhdddddmNmdhyysyydddmmNNMNNmmddmm
-' mmdddddddhhddddddmmmmdmmmmNNNmmmmmmmddmN  NOTE: Only 37% complete.
-' NddhdmmdddddddddddddddmmmmmmmdmdmmmdmmNM
+'     PROGRAM: Liberty Basic Command Tests
+
+'  PROGRAMMER: Scott A. Rossell
+
+' DESCRIPTION: A sequential collection of tests for each command and constant
+'              in the Liberty Basic programming language.
+'              This program is intended for use with Liberty Basic version 5,
+'              particularly during alpha and beta testing phases of development.
+
+'        DATE: 19.12.7
+
+'     VERSION: 1.0
+
+'       NOTES: Only 37% complete.
 
 ' ===> [ INITIALIZATION ] <=====================================================
 
