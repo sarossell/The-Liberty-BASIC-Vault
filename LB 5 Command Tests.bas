@@ -1,5 +1,7 @@
 '     PROGRAM: Liberty Basic Command Tests
 
+'    FILENAME: LB Command Tests.bas
+
 '  PROGRAMMER: Scott A. Rossell
 
 ' DESCRIPTION: A sequential collection of tests for each command and constant
