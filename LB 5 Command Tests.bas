@@ -5,9 +5,9 @@
 '  PROGRAMMER: Scott A. Rossell
 
 ' DESCRIPTION: A sequential collection of tests for each command and constant
-'              in the Liberty Basic programming language.
-'              This program is intended for use with Liberty Basic version 5,
-'              particularly during alpha and beta testing phases of development.
+'              in the Liberty Basic programming language. This program is
+'              intended for use with Liberty Basic version 5, particularly
+'              during alpha and beta testing phases of development.
 
 '        DATE: 19.12.7
 
