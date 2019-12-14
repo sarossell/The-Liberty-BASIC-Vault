@@ -1,13 +1,13 @@
-'                           __        __    __    __                 
-'  |   . |_   _  _ |_      |__)  /\  (_  | /     |__)  _   _ |   _ | 
-'  |__ | |_) (- |  |_ \/   |__) /--\ __) | \__   | \  (_) (_ |( _) . 
-'                     /                                              
-'
-'     Program: Hide Cursor
-'        Date: 19.12.9
-'     Version: 1.0
-' Description: DLL call to hide cursor when right mouse button is clicked.
-'       Notes: Based on original concept by Benjamin "colorcodegameauthor".
+
+'     PROGRAM: Hide Cursor
+'    FILENAME: Hide Cursor.bas
+'  PROGRAMMER: Scott A. Rossell
+' DESCRIPTION: DLL call to hide cursor when right mouse button is clicked.
+'        DATE: 19.12.9
+'     VERSION: 1.0
+'       NOTES: Based on original concept by Benjamin "colorcodegameauthor".
+
+' ===> [ INITIALIZATION ] <=====================================================
 
 nomainwin
 
@@ -20,8 +20,9 @@ bShow = 0
 open "Hide Cursor" for graphics as #g
 #g, "place 50 100 ; color black";
 #g, "\Right click mouse button inside this window to toggle cursor.";
-
 #g, "trapclose [Quit]"
+
+' ===> [ MAIN PROGRAM ] <=======================================================
 
 [MainLoop]
   while 1
